@@ -1,0 +1,92 @@
+{
+  "assetsByChunkName": {
+    "path---news-2018-02-05": [
+      "path---news-2018-02-05-a0e39f21c11f6a62c5ab.js",
+      "path---news-2018-02-05-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---menu": [
+      "path---menu-a0e39f21c11f6a62c5ab.js",
+      "path---menu-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-293fe541145422fdefbe.js",
+      "component---src-pages-index-js-293fe541145422fdefbe.js.map"
+    ],
+    "component---src-pages-affiliate-js": [
+      "component---src-pages-affiliate-js-62757e540584046c8c24.js",
+      "component---src-pages-affiliate-js-62757e540584046c8c24.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-c42adff406731054c691.js",
+      "component---src-pages-contact-js-c42adff406731054c691.js.map"
+    ],
+    "component---src-pages-news-js": [
+      "component---src-pages-news-js-1ac95a43f5d1b05b0b56.js",
+      "component---src-pages-news-js-1ac95a43f5d1b05b0b56.js.map"
+    ],
+    "component---src-pages-menu-js": [
+      "component---src-pages-menu-js-c947c8fc0c3c0c13e00d.js",
+      "component---src-pages-menu-js-c947c8fc0c3c0c13e00d.js.map"
+    ],
+    "path---affiliate": [
+      "path---affiliate-a0e39f21c11f6a62c5ab.js",
+      "path---affiliate-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-e11f2a20d4f574d2500d.js",
+      "component---src-layouts-index-js-e11f2a20d4f574d2500d.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-bbf52a1503d0cf74cc5d.js",
+      "component---src-pages-404-js-bbf52a1503d0cf74cc5d.js.map"
+    ],
+    "commons": [
+      "commons-0753b0f1cd67ad95529c.js",
+      "build-js-styles.css",
+      "commons-0753b0f1cd67ad95529c.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---news": [
+      "path---news-a0e39f21c11f6a62c5ab.js",
+      "path---news-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-b0805d1e21f851928d93.js",
+      "build-js-styles.css",
+      "app-b0805d1e21f851928d93.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-0ef71e01d28b64ab04b2.js",
+      "component---src-pages-about-js-0ef71e01d28b64ab04b2.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-news-2018-02-05-jsx": [
+      "component---src-pages-news-2018-02-05-jsx-649a539268ce818ad936.js",
+      "component---src-pages-news-2018-02-05-jsx-649a539268ce818ad936.js.map"
+    ]
+  }
+}
